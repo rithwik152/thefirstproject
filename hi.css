@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/gvQ9NhQP8wbbM32jXy4V3j-970-80.jpg.webp");
+    height: 100vh;
+    width:100vw;
+    background-size: cover;
+}
+.topen{
+    text-align:center;
+    margin: 15;
+    height: 50px;
+    padding: 3px;    ;
+    font-family:"roboto";
+    font-weight: bold;
+    
+}
+.spell{
+    height: 200px;
+    width: 200px;
+    background-color:rgb(245, 245, 245);
+    margin:20px;
+    text-align:center;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 4px 8px 16px;
+    
+}
+.imagu{
+    height: 500px;
+    width: 600px;
+    margin:2px;
+}
+.tubu{
+    margin:40px;
+    width:130px;
+}
+.cam{
+    background-image:url("https://i.pinimg.com/736x/94/6f/d2/946fd20c35c6a575fdbc8a836627abd9.jpg");
+    height: 300px;
+    width:300px;
+    background-size: cover;
+}
+
+.meme{
+    background-image:url("https://memetemplateindia.com/wp-content/uploads/2021/07/meme-templates-king-1024x1024.jpg");
+    height: 250px;
+    width:250px;
+    background-size: cover;    
+}
